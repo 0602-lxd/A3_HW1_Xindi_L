@@ -1,11 +1,14 @@
-# Sass and Modular Css
+# A3_HW1_Xindi_L
 
 ## Description
 3039-02-20F
 This hw rebuilds the original CSS into sass. I created modules in sass and created six SCSS files in the modules, and then imported them to the master SCSS file, complied sass into css.
 
+Create an AJAX request for the JSON file using the Fetch API or the XHTTP object and build dynamic content.
+
 ## Installation
 There is no installation process for this repo.Simply pulldown and start working!
+
 
 ## MIT License
 MIT License
