@@ -1,0 +1,45 @@
+.bannerContainer {
+    padding: 0;
+}
+
+.yellowBoxNav {
+    position:relative;
+    display:inline-block;
+    /*float:right;*/
+    margin-right:30px;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    background-color:#f3d83f;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 55px;
+    height: 45px;
+    color:white;
+    z-index: 25;
+    span {
+        position: relative;
+        top: 8px;
+        font-size: 3rem;
+    }
+}
+
+.dropdown-menu { 
+    margin-top:25px; 
+}
+
+.dropdown-menu-right { 
+    right:-15px; 
+}
+
+.mainHead {
+    height:110px;
+    background-color: #ffffff;
+}
+
+.clLogo { 
+    position:relative;
+    top: 50%;
+    transform: translateY(-50%);
+    left:40px;
+}
